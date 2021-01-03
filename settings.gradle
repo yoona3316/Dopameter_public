@@ -1,0 +1,2 @@
+rootProject.name='Dopameter'
+include ':app'
